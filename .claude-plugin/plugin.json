@@ -1,0 +1,10 @@
+{
+  "name": "seed4j",
+  "version": "0.1.0",
+  "description": "Seed4J for coding agents: session bootstrap and routing to the seed4j-cli skill and the ai-context module",
+  "author": { "name": "Vincent Martowicz" },
+  "homepage": "https://github.com/vmartowicz/seed4j-plugin",
+  "repository": "https://github.com/vmartowicz/seed4j-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["seed4j", "hexagonal-architecture", "code-generation"]
+}

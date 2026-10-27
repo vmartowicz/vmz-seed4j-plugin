@@ -1,0 +1,16 @@
+{
+  "name": "seed4j-plugin",
+  "owner": {
+    "name": "Vincent Martowicz"
+  },
+  "metadata": {
+    "description": "Seed4J plugin for coding agents"
+  },
+  "plugins": [
+    {
+      "name": "seed4j",
+      "source": "./",
+      "description": "Seed4J for coding agents: session bootstrap and routing to the seed4j-cli skill and the ai-context module"
+    }
+  ]
+}
